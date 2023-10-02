@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/mlsa02/static/css/main.fbc00891.css",
+    "main.js": "/mlsa02/static/js/main.9c833bfd.js",
+    "index.html": "/mlsa02/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.fbc00891.css",
+    "static/js/main.9c833bfd.js"
+  ]
+}
